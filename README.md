@@ -1,0 +1,1 @@
+following andrej karpathy nano GPT series to get a better feel for text-oriented transformers from scratch
